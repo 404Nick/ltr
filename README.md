@@ -39,7 +39,7 @@ Type on the left, read the translation on the right. No accounts, no API keys, n
 sudo pacman -S --needed python git wl-clipboard
 
 # 2. Get the code
-git clone https://github.com/YOUR_USERNAME/ltr.git
+git clone https://github.com/404Nick//ltr.git
 cd ltr
 
 # 3. Create an isolated environment (Arch uses PEP 668, so don't pip install system-wide)
