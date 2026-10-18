@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environments (unused venv files)
+.venv/
+venv/
+env/
+
+# Tools / editors / OS
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Argos Translate cache (~/.cache/ directory)
+~/.cache/ltr-error.log
